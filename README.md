@@ -44,7 +44,7 @@
           alt="Trophy" 
         />
         <br/>
-        <strong><a href="#" style="text-decoration: none; color: inherit;">DevFest23</a></strong>
+        <strong>DevFest23</strong>
       </td>
       <td align="center">
         <img 
@@ -53,7 +53,7 @@
           alt="Trophy" 
         />
         <br/>
-        <strong><a href="#" style="text-decoration: none; color: inherit;">CseFest25</a></strong>
+        <strong>CseFest25</strong>
       </td>
     </tr>
   </table>
