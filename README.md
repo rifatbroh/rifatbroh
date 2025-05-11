@@ -26,17 +26,42 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django logo" />
+</div>
 
+###
+
+<!-- Trophy Row Using Table for GitHub Compatibility -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img 
+          src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMjgxNy8yODE3NzU2LnBuZw==&ts=1746992568&sig=74c59b2302c959b110cdd18c26251e8686e8941396a2ab177e25d139c06f02bc" 
+          width="80px" 
+          alt="Trophy" 
+        />
+        <br/>
+        <strong><a href="#" style="text-decoration: none; color: inherit;">DevFest23</a></strong>
+      </td>
+      <td align="center">
+        <img 
+          src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMjgxNy8yODE3NzU2LnBuZw==&ts=1746992568&sig=74c59b2302c959b110cdd18c26251e8686e8941396a2ab177e25d139c06f02bc" 
+          width="80px" 
+          alt="Trophy" 
+        />
+        <br/>
+        <strong><a href="#" style="text-decoration: none; color: inherit;">CseFest25</a></strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
 ###
 
-<p align="left"></p>
-
-###
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rifatbroh&label=Profile%20views&color=0e75b6&style=flat" alt="rifatbroh" /> </p>
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=rifatbroh&label=Profile%20views&color=0e75b6&style=flat" alt="rifatbroh" /> 
+</p>
