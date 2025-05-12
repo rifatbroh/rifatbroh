@@ -44,12 +44,7 @@
         />
         <br/>
         <strong>
-          <a 
-            href="https://www.linkedin.com/posts/rifat-hossain-6b21741b3_memories-61223-lets-hear-for-2nd-activity-7275246645242445824-Q8KV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGuEeYByBGel2cuVxArzqhx669ltAfNyXQ" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            style="text-decoration: none; color: inherit;"
-          >
+          <a href="https://www.linkedin.com/posts/rifat-hossain-6b21741b3_memories-61223-lets-hear-for-2nd-activity-7275246645242445824-Q8KV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGuEeYByBGel2cuVxArzqhx669ltAfNyXQ" target="_blank" style="text-decoration: none; color: inherit;">
             DevFest23
           </a>
         </strong>
@@ -62,12 +57,7 @@
         />
         <br/>
         <strong>
-          <a 
-            href="https://www.linkedin.com/posts/rifat-hossain-6b21741b3_we-are-champions-%E0%A6%B9-%E0%A6%B6%E0%A6%A8%E0%A6%A8-%E0%A6%86%E0%A6%AE-%E0%A6%AC%E0%A6%B2-activity-7326273970318512128-4a_b?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGuEeYByBGel2cuVxArzqhx669ltAfNyXQ" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            style="text-decoration: none; color: inherit;"
-          >
+          <a href="https://www.linkedin.com/posts/rifat-hossain-6b21741b3_we-are-champions-%E0%A6%B9-%E0%A6%B9-%E0%A6%B6%E0%A6%A8%E0%A6%A8-%E0%A6%86%E0%A6%AE-%E0%A6%AC%E0%A6%B2-activity-7326273970318512128-4a_b?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGuEeYByBGel2cuVxArzqhx669ltAfNyXQ" target="_blank" style="text-decoration: none; color: inherit;">
             CseFest25
           </a>
         </strong>
@@ -75,9 +65,6 @@
     </tr>
   </table>
 </div>
-
-
-
 
 ###
 
