@@ -39,7 +39,7 @@
     <tr>
       <td align="center">
         <img 
-          src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMjgxNy8yODE3NzU2LnBuZw==&ts=1746992568&sig=74c59b2302c959b110cdd18c26251e8686e8941396a2ab177e25d139c06f02bc" 
+          src="https://cdn-icons-png.flaticon.com/256/2817/2817756.png" 
           width="80px" 
           alt="Trophy" 
         />
@@ -48,7 +48,7 @@
       </td>
       <td align="center">
         <img 
-          src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMjgxNy8yODE3NzU2LnBuZw==&ts=1746992568&sig=74c59b2302c959b110cdd18c26251e8686e8941396a2ab177e25d139c06f02bc" 
+          src="https://cdn-icons-png.flaticon.com/256/2817/2817756.png" 
           width="80px" 
           alt="Trophy" 
         />
