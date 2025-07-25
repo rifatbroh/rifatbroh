@@ -44,7 +44,7 @@
         />
         <br/>
         <strong>
-          <a href="https://www.linkedin.com/posts/rifat-hossain-6b21741b3_memories-61223-lets-hear-for-2nd-activity-7275246645242445824-Q8KV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGuEeYByBGel2cuVxArzqhx669ltAfNyXQ" target="_blank" style="text-decoration: none; color: inherit;">
+          <a href="https://www.linkedin.com/posts/rifat-hossain-6b21741b3_memories-61223-lets-hear-for-2nd-activity-7275246645242445824-Q8KV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGuEeYByBGel2cuVxArzqhx669ltAfNyXQ" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
             DevFest23
           </a>
         </strong>
