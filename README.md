@@ -62,6 +62,17 @@
           </a>
         </strong>
       </td>
+            <td align="center">
+        <img 
+          src="https://cdn-icons-png.flaticon.com/256/2817/2817756.png" 
+          width="80px" 
+          alt="Trophy" 
+        />
+        <br/>
+        <strong style="color: blue">
+          loading...
+        </strong>
+      </td>
     </tr>
   </table>
 </div>
