@@ -62,7 +62,7 @@
           </a>
         </strong>
       </td>
-            <td align="center">
+<!--             <td align="center">
         <img 
           src="https://cdn-icons-png.flaticon.com/256/2817/2817756.png" 
           width="80px" 
@@ -72,7 +72,7 @@
         <strong style="color: blue">
           loading...
         </strong>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
