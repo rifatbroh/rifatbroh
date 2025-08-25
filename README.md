@@ -1,4 +1,4 @@
-<h3 align="center">OLD_MAXTAN :)<br>A passionate programmer from B.D</h3>
+<h3 align="center">OLD_MAXTAN :)<br>A passionate programmer from B.D.</h3>
 
 ###
 
