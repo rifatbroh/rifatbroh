@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp" />
   <br/>
   <!-- 🔹 Second Row (remaining items) -->
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,git,github,vscode,figma,typescript" />
 </p>
 
 
