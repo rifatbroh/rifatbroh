@@ -50,7 +50,7 @@
           </a>
         </strong>
       </td>
-<!--             <td align="center">
+        <td align="center">
         <img 
           src="https://cdn-icons-png.flaticon.com/256/2817/2817756.png" 
           width="80px" 
@@ -58,9 +58,9 @@
         />
         <br/>
         <strong style="color: blue">
-          loading...
+          post pending
         </strong>
-      </td> -->
+      </td>
     </tr>
   </table>
 </div>
