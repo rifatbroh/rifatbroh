@@ -58,7 +58,7 @@
         />
         <br/>
         <strong style="color: blue">
-          post pending
+          pending
         </strong>
       </td>
     </tr>
