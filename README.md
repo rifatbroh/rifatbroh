@@ -57,8 +57,10 @@
           alt="Trophy" 
         />
         <br/>
-        <strong style="color: blue">
-          pending
+        <strong>
+          <a href="https://www.linkedin.com/posts/rifat-hossain-6b21741b3_%F0%9D%97%AA%F0%9D%97%B2-%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%B1-%F0%9D%97%B6%F0%9D%98%81-%F0%9D%97%A7%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BA-%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%84-%F0%9D%97%99%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%BF-activity-7395430966158278656-Hc0y?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGuEeYByBGel2cuVxArzqhx669ltAfNyXQ" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+            FallFest25
+          </a>
         </strong>
       </td>
     </tr>
