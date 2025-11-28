@@ -2,11 +2,42 @@
 
 ###
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rifatbroh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rifatbroh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/rifatbroh/stats)
+<!-- GitHub Stats -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rifatbroh&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rifatbroh&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rifatbroh&show_icons=true"
+    height="150"
+  />
+</picture>
+
+<!-- Dynamic Most Used Languages -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rifatbroh&layout=compact&langs_count=6&card_width=350&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rifatbroh&layout=compact&langs_count=6&card_width=350"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rifatbroh&layout=compact&langs_count=6&card_width=350"
+    height="150"
+    alt="Most Used Languages"
+  />
+</picture>
+
 </div>
+
 
 ###
 
