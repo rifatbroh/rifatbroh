@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=rifatbroh&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -20,7 +20,7 @@
 </picture>
 
 <!-- Dynamic Most Used Languages -->
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rifatbroh&layout=compact&langs_count=6&card_width=350&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -34,7 +34,8 @@
     height="150"
     alt="Most Used Languages"
   />
-</picture>
+</picture> --> 
+![Github Stats](https://greptile-stats.vercel.app/api/widget/rifatbroh/stats)
 
 </div>
 
